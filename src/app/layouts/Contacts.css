@@ -1,0 +1,28 @@
+.contacts {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #333;
+    margin: 20px;
+}
+
+.contacts h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.contacts p {
+    margin-bottom: 10px;
+}
+
+.contacts .address {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.contacts .address p {
+    margin-bottom: 5px;
+}
